@@ -15,7 +15,7 @@ public class DemoApplication {
 
 
 @RestController()
-@RequestMapping("test")
+@RequestMapping("testt")
 class Test {
 
     @RequestMapping("/")
